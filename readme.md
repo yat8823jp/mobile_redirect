@@ -17,3 +17,5 @@ PC用ページを見る場合に、ディレクトリを変更するための遷
 それを避けるため、jquery.cookie.jsを利用し、cookie情報を取得し、フラグを利用する。  
   
 PC用のhtmlに、スマートフォンでの閲覧時のみ、スマートフォン表示に切り替えるボタンを設置する。
+
+[jquery.cookie.js](https://github.com/carhartl/jquery-cookie)

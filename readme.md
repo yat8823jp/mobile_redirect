@@ -1,4 +1,4 @@
-#ユーザーエージェントの振り分けによるスマホサイトへのリダイレクト。JavaScript版
+#ユーザーエージェントの振り分けによる、スマートフォン閲覧用ページへのリダイレクト。JavaScript版
 
 * {home}/index.html (PCサイト用index.html)
 * {home}/smart/index.html (スマートフォン用index.html)
